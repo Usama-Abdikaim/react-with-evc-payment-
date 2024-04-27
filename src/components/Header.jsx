@@ -11,7 +11,7 @@ const Header = () => {
     return (
         <div className="menu">
             <Link to="/" className="logo">
-                Reactify
+                Reactify app
             </Link>
 
         <div className="Links">
